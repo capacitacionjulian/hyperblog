@@ -1,1 +1,5 @@
 Hola mi nombre es Julian
+
+Vivo en Bogota
+
+Estoy volviendome experto en Git
