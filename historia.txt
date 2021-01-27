@@ -5,3 +5,5 @@ Vivo en Bogota
 Estoy volviendome experto en Git
 
 Despues continuo estudiando .net
+
+Me gustaria continuar con React
