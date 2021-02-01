@@ -7,3 +7,5 @@ Estoy volviendome experto en Git
 Despues continuo estudiando .net
 
 Me gustaria continuar con React
+
+y Despues con Base de Datos no relacionales
